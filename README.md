@@ -75,4 +75,5 @@ This is an educational project. Passwords are currently stored in a local text f
 ## Author
 
 Hunaiza Sultan
+
 Computer Systems Engineering Student
