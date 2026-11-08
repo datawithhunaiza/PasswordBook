@@ -1,4 +1,4 @@
-# 🔐 Password Manager
+# 🔐 Password Book
 
 A simple Password Manager built using Python and Streamlit.
 
